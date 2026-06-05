@@ -1,0 +1,16 @@
+best.pt
+best.engine
+best_openvino_model/
+reports/
+.env
+dataset/
+runs/
+*.csv
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+venv/
+dist/
+build/ 
+.claude/
