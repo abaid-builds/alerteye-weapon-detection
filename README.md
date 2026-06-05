@@ -4,7 +4,7 @@ A real-time AI-powered weapon detection system that monitors live video streams
 and instantly alerts operators upon detecting threats. Built with a multi-stage 
 verification pipeline to minimize false positives in production environments.
 
-![Live Detection](live-detection.png)
+![Live Detection](assets/screenshots/live-detection.png)
 
 ---
 
@@ -53,19 +53,19 @@ This three-stage approach significantly reduces false positives compared to sing
 ## Screenshots
 
 ### Live Feed — Pistol Detected
-![Live Detection](live-detection.png)
+![Live Detection](assets/screenshots/live-detection.png)
 
 ### Detection Snapshot — Auto Saved
-![Detection Snapshot](detection-snapshot.png)
+![Detection Snapshot](assets/screenshots/detection-snapshot.png)
 
 ### Analytics Dashboard
-![Analytics](analytics.png)
+![Analytics](assets/screenshots/analytics.png)
 
 ### Reports & Detection History
-![Reports](reports.png)
+![Reports](assets/screenshots/reports.png)
 
 ### Settings — Confidence Threshold
-![Settings](settings.png)
+![Settings](assets/screenshots/settings.png)
 
 ---
 
@@ -130,8 +130,3 @@ This three-stage approach significantly reduces false positives compared to sing
 Built as a Technopreneurship course project at Superior University, Lahore.
 
 ---
-
-## Note
-
-This repository contains project documentation and screenshots only. 
-Source code is available upon request for academic or professional review.
